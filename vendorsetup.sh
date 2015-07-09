@@ -35,6 +35,7 @@ add_lunch_combo minimal_t0lte-userdebug
 add_lunch_combo minimal_t0lteatt-userdebug
 add_lunch_combo minimal_t0ltetmo-userdebug
 add_lunch_combo minimal_tilapia-userdebug
+add_lunch_combo minimal_titan-userdebug
 add_lunch_combo minimal_trltetmo-userdebug
 add_lunch_combo minimal_toro-userdebug
 add_lunch_combo minimal_toroplus-userdebug

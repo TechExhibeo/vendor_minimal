@@ -43,6 +43,7 @@ PRODUCT_MAKEFILES := \
 	$(LOCAL_DIR)/minimal_t0lteatt.mk \
 	$(LOCAL_DIR)/minimal_t0ltetmo.mk \
 	$(LOCAL_DIR)/minimal_tilapia.mk \
+	$(LOCAL_DIR)/minimal_titan.mk \
 	$(LOCAL_DIR)/minimal_toro.mk \
 	$(LOCAL_DIR)/minimal_toroplus.mk \
 	$(LOCAL_DIR)/minimal_trltetmo.mk \
